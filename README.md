@@ -1,5 +1,4 @@
-# Human-Computer Interaction Project
-# ECFCA System – Registry module and academic tracking 
+# Human-Computer Interaction Project --- ECFCA System – Registry module and academic tracking 
 
 # 1. User Group Selection
 
