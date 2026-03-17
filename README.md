@@ -6,8 +6,6 @@
 ![Focus](https://img.shields.io/badge/Focus-HCI%20%2F%20UX-blueviolet?style=for-the-badge)
 
 
-> A Human-Computer Interaction (HCI) project focused on streamlining academic registration for active professionals.
-
 ---
 
 ## 📖 Project Overview
@@ -26,7 +24,7 @@ This group combines demanding professional careers with academic study, meaning 
 
 ---
 
-##  2. User Persona — Monica
+##  2. User Persona — Monica **
 
 > *"I am motivated to upgrade my skills, but I don't have hours to spend figuring out how to register or checking if my documents were received."*
 
