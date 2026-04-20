@@ -9,16 +9,18 @@
 
 ### NFR-UI-001: Intuitiveness (First-Time Use)
 The interface must be designed so that the target demographic (professionals with limited time) can navigate the system and complete critical tasks (e.g., account creation) immediately upon their first encounter without prior training or guidance.
-**Verification Metric:** Initial Task Success Rate.
-**Acceptance Criteria:** Completion rate > 80% on the first attempt, without moderator intervention or manual consultation.
+
+**Verification Metric:** Average System Usability Scale
+**Acceptance Criteria:** Completion rate > 70 on the first attempt, without moderator intervention or manual consultation.
 
 ### NFR-UI-002: Learnability (Efficiency Gain)
 The system must exhibit a shallow learning curve, where users who have completed a task once can perform the same or similar tasks significantly faster and with fewer errors in subsequent sessions.
-**Verification Metric:** Time-on-Task (ToT) comparison between the 1st and 3rd attempts.
-**Acceptance Criteria:** A minimum 30% reduction in average time-on-task by the third repetition of a specific workflow.
+
+**Verification Metric:** Time-on-Task (ToT) comparison between the 1st and 2nd session.
+**Acceptance Criteria:** The user can complete a workflow without hesitation or backtracking by the 2nd sesion
 
 ### NFR-UI-003: Error Prevention
-The interface must prevent common user errors before form submission through preventive validations (Poka-Yoke) and visual constraints (e.g., disabling buttons until the form is valid).
+The interface must prevent common user errors before form submission through preventive validations (Poka-Yoke) and visual constraints without making the user feel at blame by the interface(e.g., disabling buttons until the form is valid).
 
 **Verification Metric:** Number of errors committed during moderated testing sessions (Think-Aloud Protocol).
 **Acceptance Criteria:** Users commit fewer than 2 non-recoverable (fatal) errors in the complete flow.
@@ -163,8 +165,8 @@ All successful actions must show a clearly identifiable visual confirmation mess
 ### NFR-UI-022: Progress Indicators
 Multi-step processes (like registration) must show a visual progress indicator displaying the current step and remaining steps.
 
-**Verification Metric:** Review of multi-step flows.
-**Acceptance Criteria:** Progress bar or stepper visible in all flows with more than 2 steps.
+**Verification Metric:** Ask the user how much is left
+**Acceptance Criteria:** The user should be able to answer "how much is left?" without the need to scroll or guess.
 
 ### NFR-UI-023: Background Task Indicators
 Any operation that processes in the background must show a visual progress or loading indicator.
@@ -226,7 +228,7 @@ The system must use text size, weight, and color to establish a clear hierarchy 
 Instructions and labels must be written in simple language, avoiding technical or administrative jargon.
 
 **Verification Metric:** Content review with non-technical users.
-**Acceptance Criteria:** 90% of users understand instructions without needing clarification.
+**Acceptance Criteria:** 90% of users understand instructions without needing clarification or 3rd re-read.
 
 ---
 
