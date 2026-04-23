@@ -20,10 +20,13 @@ The system must exhibit a shallow learning curve, where users who have completed
 **Acceptance Criteria:** The user can complete a workflow without hesitation or backtracking by the 2nd sesion
 
 ### NFR-UI-003: Error Prevention
-The interface must prevent common user errors before form submission through preventive validations (Poka-Yoke) and visual constraints without making the user feel at blame by the interface(e.g., disabling buttons until the form is valid).
+TThe system must proactively prevent invalid data entry and logic conflicts across all input types. The interface shall use "Guardrails" to ensure data integrity without requiring a round-trip to the server.
 
-**Verification Metric:** Number of errors committed during moderated testing sessions (Think-Aloud Protocol).
-**Acceptance Criteria:** Users commit fewer than 2 non-recoverable (fatal) errors in the complete flow.
+**Verification Metric:** Error-to-Submission Ratio.
+**Acceptance Criteria:** 
+- 100% of syntax errors (Email/Date) are caught by the UI before the Submit button is enabled.
+- Zero fatal "Schedule Conflict" errors reach the database.
+- Users commit fewer than 2 non-recoverable (fatal) errors in the complete flow.
 
 ### NFR-UI-004: Clarity of Error Messages
 All error messages must:
@@ -153,7 +156,7 @@ All interactive elements must have distinct visual states for:
 ### NFR-UI-020: Form Feedback
 Form fields must provide real-time (inline) validation in addition to validation upon submission.
 
-**Verification Metric:** Functional testing of forms.
+**Verification Metric:** Functional testing of forms. 
 **Acceptance Criteria:** Inline validation on 100% of restricted fields.
 
 ### NFR-UI-021: Success Messages
@@ -184,7 +187,7 @@ Any system functionality must be accessible in a maximum of 3 clicks from the ma
 **Verification Metric:** Sitemap mapping and click count.
 **Acceptance Criteria:** 100% of functionalities accessible in ≤ 3 clicks.
 
-### NFR-UI-025: Breadcrumbs
+### NFR-UI-025: Breadcrumbs (not so necessary)
 Deep content pages must include breadcrumbs indicating the current location and allowing quick navigation to higher levels.
 
 **Verification Metric:** Review of level-3 or deeper views.
