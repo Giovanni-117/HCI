@@ -15,3 +15,4 @@
 | Adriel Yerbes | Marzo 23   | Creacion de la bitácora |
 | Adriel Yerbes | Marzo 31   | Cambios de los requisitos no funcionales en el NFR-UI-001 |
 | Adriel Yerbes | Abril 17   | Cambios de los requisitos no funcionales en el NFR-UI-001, NFR-UI-002, NFR-UI-003, NFR-UI-022, NFR-UI-031 |
+| Adriel Yerbes | Abril 22 | Cambios en el requisito no funcional NFR-UI-003 |
