@@ -17,4 +17,5 @@
 | Adriel Yerbes | Abril 17   | Cambios de los requisitos no funcionales en el NFR-UI-001, NFR-UI-002, NFR-UI-003, NFR-UI-022, NFR-UI-031 |
 | Adriel Yerbes | Abril 22 | Cambios en el requisito no funcional NFR-UI-003 |
 | Todos | Abril 29 | Se realizaron las prubeas de funcionalidad a usuarios |
-| Adriel Yerbes | Mayo 12 | Se realizaron cambios a la UI y se justificaron estos cambios según los resultados obtenidos en las pruebas |
+| Samuel Blanco | Mayo 11 | Se realizaron cambios a la UI basado en las pruebas |
+| Adriel Yerbes | Mayo 12 | Se justificaron los cambios de la UI según los resultados obtenidos en las pruebas |
