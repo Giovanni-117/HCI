@@ -107,5 +107,4 @@ Monitoring and work processes were rigorously managed through the Git repository
 *   **Samuel Blanco (~40%):** Leadership in web development. Responsible for the technical execution of prototypes (v0 and final), environment configuration, and English translations.
 *   **Adriel Yerbes (~25%):** Delivery management, bitacora consolidation, methodological documentation handling, and NFR synchronization.
 *   **Aldo (~20%):** Testing architecture. Main author of the extended Non-Functional Requirements testing document and theoretical analysis of interface patterns.
-*   **Sebastián Leal (~10%):** Methodological bases. In charge of early theoretical definition, participant methodology, and heuristics.
-*   **José Blanco (~5%):** Initial conceptual contribution and user scenario definition.
+*   **Sebastián Leal (~15%):** Methodological bases. In charge of early theoretical definition, participant methodology, and heuristics.
