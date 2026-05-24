@@ -19,4 +19,9 @@
 | Todos | Abril 29 | Se realizaron las prubeas de funcionalidad a usuarios |
 | Samuel Blanco | Mayo 11 | Se realizaron cambios a la UI basado en las pruebas |
 | Adriel Yerbes | Mayo 12 | Se justificaron los cambios de la UI según los resultados obtenidos en las pruebas |
+| Adriel Yerbes | Mayo 16 | Se creo la base de datos de postgresql con prisma y se vinculo a supabase, se creo tabla de usuarios y se vinculo la pestaña de registro |
+| Adriel Yerbes | Mayo 18 | Cursos funcionales y conectados a la base de datos con los mismos datos que usaron en mock |
+| Adriel Yerbes | Mayo 20 | El boton de registrarse en cursos ahora cambia cuando en los cookies se detecta que hay una sesión iniciada al igual que los botones en el navbar que dejan de mostrar registrase y iniciar sesion y muestran tu perfil |
+| Adriel Yerbes | Mayo 20 | Cuando se ve el perfil el area para ver a lo que el usuario esta suscrito y otra información ya funciona |
+| Adriel Yerbes | Mayo 21 | La pestaña de inscripciones en la vista del perfil ya funciona |
 | Samuel Blanco | Mayo 21 | Creación del Documento Integrador del proyecto y su traducción al inglés (HCI Integrative Case Study) basado en la Matriz de Pruebas y el desarrollo técnico |
