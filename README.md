@@ -1,13 +1,11 @@
-[🎨 Propuesta Visual](https://v0-user-registration-flow-eight.vercel.app/)
 
 # 🎓 ECFCA System — Registry Module & Academic Tracking
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-HCI%20%2F%20UX-blueviolet?style=for-the-badge)
 
-
 ---
-
+## [🎨 Demo Visual](https://hci.xooktech.com/)
 ## 📖 Project Overview
 
 The **ECFCA System** is a registry and academic tracking module designed to facilitate the enrollment of graduates and external professionals into diploma courses and continuing education programs.
