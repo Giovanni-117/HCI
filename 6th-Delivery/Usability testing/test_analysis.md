@@ -2,7 +2,7 @@
 
 | Task | Efficiency metrics | Interaction friction metrics |
 |---|---|---|
-| **Register** | Success rate: 91% · Avg time: 106s · Avg clicks: 13 · Avg errors: 1 · Avg time to find button: — | Misclick rate: 8.8% · Avg mental blocks: 1 · Avg help asked: 0.78 · Avg happy path adherence: 86% |
+| **Register** | Success rate: 91% · Avg time: 106s · Avg clicks: 13 · Avg errors: 1 | Misclick rate: 8.8% · Avg mental blocks: 1 · Avg help asked: 0.78 · Avg happy path adherence: 86% |
 | **Login** | Success rate: 91% · Avg time: 27s · Avg clicks: 5 · Avg errors: 0.3 | Misclick rate: 3.3% · Avg mental blocks: 0.27 · Avg help asked: 0.11 · Avg happy path adherence: 92% |
 | **Enrollment** | Success rate: 73% · Avg time: 133s · Avg clicks: 18 · Avg errors: 1.5 | Misclick rate: 12.5% · Avg mental blocks: 1.91 · Avg help asked: 1.22 · Avg happy path adherence: 74% |
 | **Status** | Success rate: 78% · Avg time: 34s · Avg clicks: 6 · Avg errors: 0.6 | Misclick rate: 8.4% · Avg mental blocks: 0.7 · Avg help asked: 0.38 · Avg happy path adherence: 80% |
